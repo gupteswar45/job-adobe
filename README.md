@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gupteswar45/job-adobe/tree/master/0001-two-sum) |
+| [1472-design-browser-history](https://github.com/gupteswar45/job-adobe/tree/master/1472-design-browser-history) |
 | [1872-stone-game-viii](https://github.com/gupteswar45/job-adobe/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/gupteswar45/job-adobe/tree/master/0225-implement-stack-using-queues) |
+| [1472-design-browser-history](https://github.com/gupteswar45/job-adobe/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/gupteswar45/job-adobe/tree/master/0225-implement-stack-using-queues) |
+| [1472-design-browser-history](https://github.com/gupteswar45/job-adobe/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -64,4 +67,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gupteswar45/job-adobe/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/gupteswar45/job-adobe/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/gupteswar45/job-adobe/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/gupteswar45/job-adobe/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
