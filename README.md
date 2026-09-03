@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/gupteswar45/job-adobe/tree/master/0231-power-of-two) |
 | [1872-stone-game-viii](https://github.com/gupteswar45/job-adobe/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/gupteswar45/job-adobe/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gupteswar45/job-adobe/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/gupteswar45/job-adobe/tree/master/0231-power-of-two) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gupteswar45/job-adobe/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gupteswar45/job-adobe/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/gupteswar45/job-adobe/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
